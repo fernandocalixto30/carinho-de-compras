@@ -1,2 +1,2 @@
 # carinho-de-compras
-https://6633cd54992d0b1efc9bfd6f--kaleidoscopic-eclair-ccc1fb.netlify.app/
+https://663b5d0c91783604a99d02b8--spectacular-fudge-344a6c.netlify.app/
